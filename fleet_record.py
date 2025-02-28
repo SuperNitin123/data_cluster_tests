@@ -4,7 +4,7 @@ import pandas as pd
 
 fleet_data = {
     "brands": ['Suzuki', 'Toyota', 'Ford', 'Honda', 'Hyundai'],
-    'numbers': [4, 7, 2, 4, 5]
+    'numbers': [4, 7, 2, 4, 7]
 }
 fleet_record = pd.DataFrame(fleet_data)
 
